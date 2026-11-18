@@ -1,0 +1,15 @@
+1. What was your primary contribution to the project?
+My main contribution was developing the C program, including temperature monitoring, configurable ranges, average calculations, file saving, and test cases. My partner handled the Raspberry Pi hardware setup.
+
+2. What was the most challenging technical problem?
+The biggest challenge was running the C program in different environments, especially when the online compiler could not recognize the Raspberry Pi’s pigpio library.
+
+3. How did your team use testing or debugging to solve a problem?
+We tested different temperatures to verify the NORMAL and WARNING statuses. I also used simulation mode to resolve the compiler issue and test the program without the Raspberry Pi.
+
+4. Which skills from CSE 1106 were most useful?
+The most useful skills were learning how to use GitHub properly, working with the Raspberry Pi, and using PowerShell. These helped me understand coding, hardware integration, and project collaboration.
+
+5. What would you improve if you had more time?
+I would create a more user-friendly interface, add an automatic temperature sensor, and improve the data logging system by including timestamps.
+
